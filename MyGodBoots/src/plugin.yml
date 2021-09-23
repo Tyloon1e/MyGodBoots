@@ -1,0 +1,8 @@
+main: me.Tyloon1e.MyGodBoots.MyGodBoots
+name: MyGodBoots
+version: 1.0.0
+author: Tyloon1e
+api-version: 1.13
+commands:
+  mygodboots:
+    aliases: godboots
